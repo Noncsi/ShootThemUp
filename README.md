@@ -1,5 +1,5 @@
 # Shoot'em Up Game
-Play'n Go homework using pixiJS and Typescript.
+Using pixiJS.
 
 ### Quick start
 **Node version >= 10.6.0 (recommended 12.16.2) and NPM >= 6.1.0 (recommended 6.14.4)**
